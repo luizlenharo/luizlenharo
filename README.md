@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Luiz Lenharo!
 
-- 🔭 I’m currently working with Web Development
+- 🔭 I’m currently working with Web Development on [CI&T](https://ciandt.com/br/pt-br)
 - 🌱 I’m currently learning Cybersecurity
 - 🎓 Computer Engineering Undergraduate - Unicamp
 <!--
