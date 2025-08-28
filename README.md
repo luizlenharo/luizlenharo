@@ -3,6 +3,7 @@
 - 🔭 I’m currently working with Web Development on [CI&T](https://ciandt.com/br/pt-br)
 - 🌱 I’m currently learning Cybersecurity
 - 🎓 Computer Engineering Undergraduate - Unicamp
+- ⚡ NeoVim enthusiast
 <!--
 **luizlenharo/luizlenharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
