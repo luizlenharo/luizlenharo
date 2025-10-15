@@ -47,8 +47,8 @@ Lately, I've been diving deeper into **offensive and defensive security**, explo
 
 ## 📫 Contact  
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** [lflenharo@gmail.com](mailto:lflenharo@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/luizlenharo](https://linkedin.com/in/luizlenharo)  
 
 <!--
 ---
