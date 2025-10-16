@@ -9,8 +9,7 @@
 ## 🧠 About Me  
 
 I'm passionate about technology and love understanding how things work under the hood — from the OS level to full-stack web applications.  
-I'm also enjoy nerd things like **Arch Linux** and **Neovim**.  
-
+I also enjoy nerd things like **Arch Linux** and **Neovim**.  
 I'm always looking for ways to write cleaner code, automate repetitive tasks, and explore new tools.  
 Lately, I've been diving deeper into **offensive and defensive security**, exploring topics like binary analysis, networks, and Linux hardening.  
 
